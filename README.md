@@ -27,7 +27,7 @@
 
 **3) Data Handling**
 * Data handling
-    * [Numpy](https://github.com/KodaHye/PythonStudy/blob/main/3)%20Data%20Handling/01Numerical%20Python%20-%20Numpy.ipynb)
+    * [Numpy](https://github.com/KodaHye/PythonStudy/blob/main/3\)%20Data%20Handling/01Numerical%20Python%20-%20Numpy.ipynb)
         * numpy
         * ndarray
         * Handling shape
@@ -39,7 +39,7 @@
         * Comparisons
         * Boolean Index
         * Fancy Index
-    * [Pandas](https://github.com/KodaHye/PythonStudy/blob/main/3)%20Data%20Handling/02Pandas.ipynb)
+    * [Pandas](https://github.com/KodaHye/PythonStudy/blob/main/3\)%20Data%20Handling/02Pandas.ipynb)
 <!-- #endregion -->
 
 ```python
